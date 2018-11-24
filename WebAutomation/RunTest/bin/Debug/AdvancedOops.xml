@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AdvancedOops
+</name>
+</assembly>
+<members>
+<member name="T:AdvancedOops.ListProcess">
+	<summary>
+ Idea is to clean the index everytime when Add,Insert and Delete command is run
+ </summary>
+	<remarks></remarks>
+</member><member name="P:AdvancedOops.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AdvancedOops.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AdvancedOops.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebAutomation
+</name>
+</assembly>
+<members>
+<member name="M:WebAutomation.WebAuto.TextToInputBox(System.String,System.String,System.String)">
+	<summary>
+ Input text in textbox control
+ </summary>
+	<param name="TextToInput"></param>
+	<param name="InputBoxID"></param>
+	<param name="AttributeID"></param>
+	<remarks></remarks>
+</member><member name="P:WebAutomation.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WebAutomation.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WebAutomation.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
